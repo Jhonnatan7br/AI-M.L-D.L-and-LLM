@@ -1,0 +1,42 @@
+import pandas as pd
+from gensim.models import Word2Vec
+from nltk.corpus import stopwords
+import nltk
+import spacy
+
+# Load spaCy model for preprocessing
+nlp = spacy.load('en_core_web_sm')
+
+# Load your dataset
+research = pd.read_csv("C:/Users/Jhonnatan/Documents/GitHub/Impact-of-AI-in-organizations/Datasets/scopus.csv")
+
+# Create a sub-dataset with the first 5251 rows
+sub_dataset = research.head(5251)
+
+# Extract abstracts from the 'Abstract' column of the dataframe
+text_corpus = sub_dataset['Abstract'].tolist()
+
+# Preprocess the text data using spaCy and remove stopwords
+stop_words = set(stopwords.words('english'))
+new_stop_words = {'ai', '(ai)', 'patien', 'patients', '=', 'de', 'control', 'model', 'system', 'et', 'results', 'power', '±', 'new', 'compared', 'risk', 'data', 'smart', 'la', 'abstract', 'om', '“no', 'available', 'set', 'problem', 'teatures', 'siven', 'class', 'rights', 'general', 'cows', 'milk', 'relevant', 'reserved."', 'time', 'pattern', 'constraint', 'classiters', 'vve I', 'problems', 'consider', 'propositional', 'logic', 'present', 'space', 'large', 'springer', 'prove', 'intake', 'la', '©', 'found', 'problem', 'features', 'given', 'p', '(p)', 'knowledge', 'results', 'si', 'd', '"[no', 'available]"', 'use', 'field', '"The', 'provide', 'based', 'paper', 'propose', 'decision', '2021', 'process', 'methods', 'paper,', 'however', 'number', 'studies', 'study', '<', 'conclusion:', '2', '1', 'significant', 'included', 'total', '(n', 'des', 'les', 'genetic', 'à', 'en', 'le', 'une', 'qui', 'du', 'associated', 'literature', 'review', ',', 'intelligence', 'artificial', 'approach', 'proposed', 'intelligence', 'accuracy', 'parameters', 'group', 'methods:', 'results:', '(p', 'low', 'different', 'higher', 'analysis', 'published', 'articles', 'coding', 'dans', 'un', 'video', 'se', 'que', 'productivity', 'pour', 'elsevier', 'automatic', 'levels', 'expression', 'increased', 'effect', 'days', 'high', 'however', 'index', 'significantly', 'af', 'function'}
+stop_words.update(new_stop_words)
+
+preprocessed_corpus = []
+
+for doc in text_corpus:
+    # Tokenize and preprocess using spaCy
+    doc_tokens = [token.lemma_.lower() for token in nlp(doc) if token.lemma_.lower() not in stop_words]
+    preprocessed_corpus.append(doc_tokens)
+
+# Train Word2Vec model on the preprocessed corpus
+model = Word2Vec(sentences=preprocessed_corpus, vector_size=100, window=5, min_count=1, sg=0)
+
+# Save the Word2Vec model
+model.save("word2vec_model")
+
+# Load the Word2Vec model
+model = Word2Vec.load("word2vec_model")
+
+# Get word vectors
+vector = model.wv['ai']  # Replace 'word1' with the word you want to get the vector for
+print(vector)
