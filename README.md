@@ -23,10 +23,10 @@
 >[!NOTE]
 > Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to understand techniques and bases to made deep learning
 
-> For future building
-> Convolutional neural networks (CNNs): These are commonly used for image classification and object detection tasks. They are designed to recognize patterns in images by using filters that can detect edges, corners, and other features
-> Recurrent neural networks (RNNs): These are used for tasks that involve sequential data, such as speech recognition and natural language processing. They are designed to process data that has a temporal component, such as audio signals or text
-> Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data 
+> For future building samples
+- Convolutional neural networks (CNNs): These are commonly used for image classification and object detection tasks. They are designed to recognize patterns in images by using filters that can detect edges, corners, and other features
+- Recurrent neural networks (RNNs): These are used for tasks that involve sequential data, such as speech recognition and natural language processing. They are designed to process data that has a temporal component, such as audio signals or text
+- Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data 
 
  ### NLP and some foundational models
 >[!NOTE]
@@ -35,9 +35,9 @@
 - Topic modeling with LSA, LDA and Word2Vec
 - BERT (Bidirectional Encoder Representation from Transformers)
 
-> For future building
-> GPT (Generative pre-trained transformer)
-> ResNet (A deep neural network architecture for image classification)
-> YOLOv5 (A real-time object detection system)
-> CLIP (model developed by OpenAI that can understand the relationship between images and text)
+> For future building samples
+- GPT (Generative pre-trained transformer)
+- ResNet (A deep neural network architecture for image classification)
+- YOLOv5 (A real-time object detection system)
+- CLIP (model developed by OpenAI that can understand the relationship between images and text)
  
