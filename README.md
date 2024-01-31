@@ -17,8 +17,7 @@
 - Polynomial_Regression.ipynb
 - Simple Linear_Regression.ipynb
 
-![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/ed380219-3fc3-40ff-922f-e956965e309e)
-
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/329f666e-d6de-4121-9bb9-09a52687fb40)
 
  ### Deep Learning techniques 
 >[!NOTE]
