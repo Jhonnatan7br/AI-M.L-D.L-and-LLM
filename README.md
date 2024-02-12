@@ -9,6 +9,11 @@
 >[!NOTE]
 > It was used ScikitLearn to do Supervised and unsupervised Learning
 
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/582f14f3-2a78-4fd0-9db6-31c8f6e64d9a)
+
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/329f666e-d6de-4121-9bb9-09a52687fb40)
+
 - Classification.ipynb
 - Clustering Hierarchical & agglomerative.ipynb
 - Clustering K-Means.ipynb
@@ -17,11 +22,13 @@
 - Polynomial_Regression.ipynb
 - Simple Linear_Regression.ipynb
 
-![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/329f666e-d6de-4121-9bb9-09a52687fb40)
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/b11e9b48-f4ad-4570-add3-3631dd4eb598)
 
  ### Deep Learning techniques 
 >[!NOTE]
 > Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to understand techniques and bases to made deep learning
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1ea6e6d7-7566-4fa8-982c-f0c729afd9ac)
 
 > For future building samples
 - Convolutional neural networks (CNNs): These are commonly used for image classification and object detection tasks. They are designed to recognize patterns in images by using filters that can detect edges, corners, and other features
@@ -31,6 +38,8 @@
  ### NLP and some foundational models
 >[!NOTE]
 > Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to build and work models and its transformers
+
+
 
 - Topic modeling with LSA, LDA and Word2Vec
 - BERT (Bidirectional Encoder Representation from Transformers)
