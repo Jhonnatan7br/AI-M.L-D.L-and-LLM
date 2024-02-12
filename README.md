@@ -41,6 +41,7 @@
 >[!NOTE]
 > Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to build and work models and its transformers
 
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/ce9b0555-3c12-41df-96c9-f0056fec04a3)
 
 
 - Topic modeling with LSA, LDA and Word2Vec
@@ -55,3 +56,9 @@
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/0cec04a0-70a0-4b54-a09d-548cd4a1c84c)
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/49d3cc5d-49c9-4b3c-907a-1688f14db32a)
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/3c2c670b-7663-48a5-8f05-c9240675f010)
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/acfcae70-0a90-443b-88fd-f95efd376594)
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/bb221194-c064-465d-8a01-db0c2b9f3e61)
