@@ -35,8 +35,7 @@
 - Recurrent neural networks (RNNs): These are used for tasks that involve sequential data, such as speech recognition and natural language processing. They are designed to process data that has a temporal component, such as audio signals or text
 - Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data 
 
-![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1eec4989-2ff5-436f-830a-20492c341b35)
-
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/9d1b14a2-b5ac-4dc8-89eb-49375f4a0c7a)
 
  ### NLP and some foundational models
 >[!NOTE]
@@ -53,3 +52,6 @@
 - YOLOv5 (A real-time object detection system)
 - CLIP (model developed by OpenAI that can understand the relationship between images and text)
  
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/0cec04a0-70a0-4b54-a09d-548cd4a1c84c)
+
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/49d3cc5d-49c9-4b3c-907a-1688f14db32a)
