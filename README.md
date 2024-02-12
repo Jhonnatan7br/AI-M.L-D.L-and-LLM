@@ -9,7 +9,7 @@
 >[!NOTE]
 > It was used ScikitLearn to do Supervised and unsupervised Learning
 
-![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/582f14f3-2a78-4fd0-9db6-31c8f6e64d9a)
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/9337f4e1-2bc4-4954-a7f2-46d9117d2d6c)
 
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/329f666e-d6de-4121-9bb9-09a52687fb40)
