@@ -35,6 +35,9 @@
 - Recurrent neural networks (RNNs): These are used for tasks that involve sequential data, such as speech recognition and natural language processing. They are designed to process data that has a temporal component, such as audio signals or text
 - Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data 
 
+![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1eec4989-2ff5-436f-830a-20492c341b35)
+
+
  ### NLP and some foundational models
 >[!NOTE]
 > Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to build and work models and its transformers
