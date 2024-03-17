@@ -3,7 +3,7 @@
 > This repository is in constant evolution to show and explain the technical side of AI and its applications to solve problems
 > [!IMPORTANT]
 > All models and cases on these repositories would be adapted to be used with the less possible requirement and computational power, to establish a minimum base to use them
-
+ 
 ### Machine Learning Models 
 
 >[!NOTE]
