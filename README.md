@@ -4,9 +4,9 @@
 
 >[!IMPORTANT]
 >All models and cases on these repositories would be adapted to be used with the less possible requirement and computational power, to establish a minimum base to use them
- 
+
 ### Machine Learning Models 
- 
+
 >[!NOTE]
 > It was used ScikitLearn to do Supervised and unsupervised Learning
 
