@@ -26,7 +26,8 @@
 
  ### Deep Learning techniques 
 >[!NOTE]
-> Under construction, It was used PyTorch, TensorFlow, Keras and Cyton to understand techniques and bases to made deep learning
+>It is recomended to use CUDA or a graphic card, for ensuring deployment of pipelines and models
+>It was used PyTorch, TensorFlow, Keras and Cyton to understand techniques and bases to made deep learning
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1ea6e6d7-7566-4fa8-982c-f0c729afd9ac)
 
