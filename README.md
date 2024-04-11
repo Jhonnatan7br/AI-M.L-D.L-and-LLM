@@ -31,10 +31,28 @@
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1ea6e6d7-7566-4fa8-982c-f0c729afd9ac)
 
-> For future building samples
+> Builded samples and Structure
+
+- 1 Recap machine learning fundamentals
+    Ensemble learning I: Bagging
+    Random Forest
+- 2 Ensemble learning II: Boosting
+    XGBoost
+- 3 Neural network I: Basics
+- 4 Neural network II: CNN
+    Convolutional Neural Network
+- 5 Neural network III: RNN
+    Recurrent Neural Network
+- 6 Natural language processing I
+    Tokenization, Bag-of-words, Word embeddings
+- 7 Natural language processing II
+    Naïve Bayes Classifier, Hidden Markov Models
+- 8 Reinforcement learning
+    Q-Learning
+
 - Convolutional neural networks (CNNs): These are commonly used for image classification and object detection tasks. They are designed to recognize patterns in images by using filters that can detect edges, corners, and other features
 - Recurrent neural networks (RNNs): These are used for tasks that involve sequential data, such as speech recognition and natural language processing. They are designed to process data that has a temporal component, such as audio signals or text
-- Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data 
+- Generative adversarial networks (GANs): These are used for generating new data that is similar to a given dataset. They consist of two neural networks that compete with each other to generate realistic data
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/9d1b14a2-b5ac-4dc8-89eb-49375f4a0c7a)
 
