@@ -25,14 +25,14 @@
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/b11e9b48-f4ad-4570-add3-3631dd4eb598)
 
- ### Deep Learning techniques 
+### Deep Learning techniques 
 >[!NOTE]
 >It is recomended to use CUDA or a graphic card, for ensuring deployment of pipelines and models
 >It was used PyTorch, TensorFlow, Keras and Cyton to understand techniques and bases to made deep learning
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/1ea6e6d7-7566-4fa8-982c-f0c729afd9ac)
 
-    #### Builded samples and Structure 
+#### Builded samples and Structure 
 
 - 1 Recap machine learning fundamentals
     Ensemble learning I: Bagging
