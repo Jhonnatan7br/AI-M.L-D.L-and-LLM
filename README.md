@@ -7,7 +7,7 @@
 
 ### Machine Learning Models 
 
->[!NOTE]
+>[!NOTE] 
 > It was used ScikitLearn to do Supervised and unsupervised Learning
 
 ![image](https://github.com/Jhonnatan7br/AI-M.L-D.L-and-LLM/assets/104907786/9337f4e1-2bc4-4954-a7f2-46d9117d2d6c)
